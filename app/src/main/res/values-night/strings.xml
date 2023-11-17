@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular_imc">Calcular IMC</string>
+</resources>
